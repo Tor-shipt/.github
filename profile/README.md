@@ -1,7 +1,7 @@
 <!-- Tor Shipt Organization README -->
 
 <p align="center">
-  <img src="https://github.com/Tor-Shipt.png" alt="Tor Shipt Logo" width="120" />
+  <img src="https://www.torproject.org/static/images/tor-logo/Color.png" alt="Tor Shipt Logo" width="120" />
 </p>
 
 <h1 align="center">🧅 Tor Shipt Organization</h1>
